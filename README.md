@@ -10,4 +10,4 @@ Before running app.py some specific files must be added in the following way:
 - A-Eye/DL/static/Xception_model.h5
 
 
-Link to the files is [here](https://drive.google.com/drive/folders/1AW2n1-jqlFfbtIItyD-koEju9bw58tzL?usp=sharing).
+Link to the files is [here](https://drive.google.com/drive/folders/1SzRwBnUgiPU42rPcpjGQ0MrxxcvW7Gxb?usp=sharing).
